@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Wash Information</title>
+</head>
+<body>
+    <p>My name is Ian Hewitson, and I am 12 years old. Thank you for choosing wash and drive car wash, to get your car washed today. Please call the number posted on the flyer you have read, also go to the address posted on the flyer. Please bring the cash amount for the cleaning package that you have chosen. You may drop off your car while I start cleaning. Before you leave, I will need your contact info to communicate to you when your car is cleaned and ready to go.</p>
+</body>
+</html>
